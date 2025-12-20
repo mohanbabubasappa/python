@@ -1,0 +1,17 @@
+a="mohan"
+b=10
+print(a,b)
+print(a,b,sep=",")
+print(a,b,sep="#")
+print(a,b,sep="$")
+print(a,b,sep="@")
+print(a,b,sep="^")
+print(a,b,sep="Hi")
+print("----------")
+name="Ram"
+age=29
+print("Name:",name,"Age:",age)
+day=1
+month=12
+year=2025
+print(day,month,year,sep="/")
